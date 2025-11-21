@@ -1,0 +1,17 @@
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS generated
+ehthumbs.db
+Icon?
