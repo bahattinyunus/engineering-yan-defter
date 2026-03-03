@@ -28,6 +28,7 @@ Bu depo, **Gömülü Sistemler, FPGA, ASIC Tasarımı, RF** ve **Yüksek Hızlı
 | **💻 Gömülü Linux** | [Embedded Linux + Device Driver Development](Embedded%20Linux%20%2B%20Device%20Driver%20Development) - Kernel modülleri ve sürücü geliştirme. |
 | **🚀 RISC-V** | [RISC‑V_Core _Design](RISC‑V_Core%20_Design) - Açık kaynaklı işlemci mimarisi üzerine çalışmalar. |
 | **📐 PCB & Signal Integrity** | [High-Speed_Digital_Design](High-Speed_Digital_Design) - Yüksek hızlı devre tasarımı prensipleri. |
+| **🤖 Robotik & Kontrol** | [Robotik_ve_Kontrol](Robotik_ve_Kontrol) - ROS2, Kinematik ve Kontrol Sistemleri. |
 | **🔒 Donanım Güvenliği** | [Donanım_Güvenliği](Donanım_Güvenliği) - Hardware Trojan, Side-Channel Analysis vb. |
 | **🧮 Hesaplama & PLC** | [MATLAB](MATLAB), [plc](plc) - Bilimsel hesaplama ve otomasyon notları. |
 
@@ -56,6 +57,7 @@ yan-defter/
 ├── Embedded Linux.../    # Kernel modülleri ve aygıt sürücüleri (Device Drivers)
 ├── MATLAB/               # DSP ve matematiksel algoritmalar
 ├── High-Speed_Dig.../    # PCB ve Sinyal Bütünlüğü (SI/PI) notları
+├── Robotik_ve_Kontrol/   # ROS2, Otonom Sistemler ve Kontrol Teorisi
 ├── RISC‑V_Core_Design/   # Açık kaynak mimari çalışmaları
 └── ...
 ```
