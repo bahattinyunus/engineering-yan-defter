@@ -65,11 +65,22 @@ yan-defter/
 ---
 
 ## 🗺️ Yol Haritası (Roadmap)
-Bu defter sürekli güncellenen canlı bir organizmadır. Gelecekte eklenmesi planlanan konular:
-- [ ] Gelişmiş Linux SPI/I2C Sensör Sürücüleri
-- [ ] RISC-V için basit bir 5-stage pipeline işlemci tasarımı
-- [ ] MATLAB ile Gelişmiş QAM/OFDM modülasyonu simülasyonları
-- [ ] Donanım Güvenliği: Side-channel attacks notları
+Bu defter sürekli güncellenen canlı bir organizmadır. Tamamlanan ve planlanan konular:
+- [x] Gelişmiş Linux SPI/I2C Sensör Sürücüleri
+- [x] RISC-V için basit bir 5-stage pipeline işlemci tasarımı
+- [x] MATLAB ile Gelişmiş QAM/OFDM modülasyonu simülasyonları
+- [x] Donanım Güvenliği: Side-channel attacks notları
+- [ ] FPGA üzerinde Real-Time Image Processing geliştirmeleri
+- [ ] SDR ile ADS-B Sinyal Çözümleme denemeleri
+
+---
+
+## 🔗 Yararlı Kaynaklar (Useful Resources)
+Mühendislik yolculuğunda faydalandığım bazı temel kaynaklar:
+*   [RISC-V International](https://riscv.org/) - Açık kaynak işlemci mimarisi.
+*   [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/) - Gömülü Linux geliştirme için ana kaynak.
+*   [All About Circuits](https://www.allaboutcircuits.com/) - Dijital ve analog tasarım temelleri.
+*   [ChipVerify](https://www.chipverify.com/) - Verilog ve SystemVerilog için mükemmel bir rehber.
 
 ---
 

@@ -90,8 +90,11 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 ## 💻 Önekler (Examples)
 
 ### 1. Hello World Kernel Modülü
-- **[hello_module.c](hello_module.c):** Basit bir Linux kernel modül iskeleti. Modül yüklendiğinde (`insmod`) ve kaldırıldığında (`rmmod`) kernela mesaj (`dmesg`) yazdırır.
+- **[hello_module.c](hello_module.c):** Basit bir Linux kernel modül iskeleti.
 - **[Makefile](Makefile):** Modülü derlemek için kullanılan build dosyası.
+
+### 2. I2C Sensör Sürücü İskeleti
+- **[i2c_sensor_skeleton.c](i2c_sensor_skeleton.c):** Linux kernel katmanında çalışan, temel I2C okuma/yazma fonksiyonlarını ve probe/remove mekanizmalarını içeren sensör sürücü şablonu.
 
 ---
 

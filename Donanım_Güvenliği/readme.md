@@ -85,8 +85,8 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ## 📚 Araştırma Notları
 
-### 1. Yan Kanal Saldırıları ve Donanım Truva Atları
-- **[hardware_trojan_notes.md](hardware_trojan_notes.md):** Side-Channel Attacks (Güç, Zamanlama, EM analizleri) ve Hardware Trojans (Donanım Truva Atları) üzerine temel araştırma ve savunma teknikleri notları.
+### 2. Pratik Yan Kanal Analizi
+- **[side_channel_practical.md](side_channel_practical.md):** Diferansiyel Güç Analizi (DPA) ve Korelasyon Güç Analizi (CPA) süreçlerinin pratikte nasıl işlediğine dair detaylı notlar ve kavramsal kod iskeletleri.
 
 ---
 
