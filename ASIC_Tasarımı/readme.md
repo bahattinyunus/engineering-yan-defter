@@ -85,10 +85,18 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ---
 
+## 📚 Kaynaklar ve Notlar
+
+### 1. ASIC Tasarım Akışına Giriş
+- **[intro_to_asic.md](intro_to_asic.md):** Standart bir ASIC tasarım sürecinin (RTL, Sentez, Fiziksel Tasarım vb.) aşamalarını açıklayan temel başlangıç rehberi.
+
+---
+
 ## ✨ Son Söz
 
 ASIC Design, ders dışı mühendisliğin en niş ve prestijli alanlarından biri.
 Bu repo, benim öğrenme yolculuğumun kaydı ve diğer meraklı mühendisler için bir kaynak.
 
 Yıldız bırakabilir, PR ve katkılarla projeye dahil olabilirsin ⭐
+
 

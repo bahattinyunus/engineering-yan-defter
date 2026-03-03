@@ -87,10 +87,19 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ---
 
+## 💻 Önekler (Examples)
+
+### 1. Hello World Kernel Modülü
+- **[hello_module.c](hello_module.c):** Basit bir Linux kernel modül iskeleti. Modül yüklendiğinde (`insmod`) ve kaldırıldığında (`rmmod`) kernela mesaj (`dmesg`) yazdırır.
+- **[Makefile](Makefile):** Modülü derlemek için kullanılan build dosyası.
+
+---
+
 ## ✨ Son Söz
 
 Embedded Linux ve Device Driver Development, ders dışı mühendisliğin en niş ve prestijli alanlarından biri.
 Bu repo, benim öğrenme yolculuğumun kaydı ve diğer meraklı mühendisler için bir kaynak.
 
 Yıldız bırakabilir, PR ve katkılarla projeye dahil olabilirsin ⭐
+
 

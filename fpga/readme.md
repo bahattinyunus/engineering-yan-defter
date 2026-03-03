@@ -448,3 +448,4 @@ Arduino işini görüyorsa FPGA kullanmak gereksiz.
 * Zynq SoC FPGA + ARM işlemci ikilisi nasıl kullanılır?
 * FPGA ile radar denklemleri nasıl çözülür?
 
+

@@ -373,3 +373,4 @@ Motor_Run → gerçek çıkışa yazılacak sinyal.
 Bu tam bir **mini üretim hattı**.
 
 ---
+

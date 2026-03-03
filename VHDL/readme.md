@@ -97,6 +97,14 @@ VHDL, genellikle aşağıdaki adımları içeren bir donanım tasarım akışın
 
 -----
 
+## ✨ Örnekler (Examples)
+
+### 1. LED Kırpma (Blink LED)
+- **[Blink_LED.vhd](Blink_LED.vhd):** Zaman sayaçlı temel bir VHDL modülü. `clk` (Saat) sinyaline bağlı olarak LED durumunu değiştirir. 
+- **[Blink_LED_tb.vhd](Blink_LED_tb.vhd):** Blink LED modülünün saat sinyali ve reset durumlarını test eden Testbench örneği.
+
+-----
+
 ## 📚 Kaynaklar ve İleri Okuma
 
   * **IEEE 1076 Standardı:** VHDL'nin resmi standardı.
