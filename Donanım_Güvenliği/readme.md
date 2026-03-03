@@ -83,6 +83,13 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ---
 
+## 📚 Araştırma Notları
+
+### 1. Yan Kanal Saldırıları ve Donanım Truva Atları
+- **[hardware_trojan_notes.md](hardware_trojan_notes.md):** Side-Channel Attacks (Güç, Zamanlama, EM analizleri) ve Hardware Trojans (Donanım Truva Atları) üzerine temel araştırma ve savunma teknikleri notları.
+
+---
+
 ## ✨ Son Söz
 
 Hardware Security, ders dışı mühendisliğin en niş ve prestijli alanlarından biri.

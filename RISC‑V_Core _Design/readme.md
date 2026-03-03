@@ -95,6 +95,13 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ---
 
+## 💻 Örnek Modüller (Examples)
+
+### 1. RV32I Instruction Decoder
+- **[rv32i_decoder.v](rv32i_decoder.v):** RISC-V 32-bit (RV32I) komut seti mimarisi için 32 bitlik komut dizesini (instruction) analiz edip R-Type, I-Type, Load, Store, Branch gibi operasyonları ve operand register adreslerini ayıran temel bir Verilog decoder (kod çözücü) modülü. 
+
+---
+
 ## ✨ Son Söz
 
 RISC‑V tasarımı, ders dışı mühendislik merakının en niş ve prestijli alanlarından biri.

@@ -85,6 +85,13 @@ Burası **sürekli güncellenen bir öğrenme ve deney laboratuvarı**dır.
 
 ---
 
+## 📚 Kaynaklar ve Notlar
+
+### 1. İletim Hatları ve Sinyal Bütünlüğü
+- **[intro_to_si.md](intro_to_si.md):** İletim hatları, yansımalar (reflections), karakteristik empedans ve crosstalk gibi temel sinyal bütünlüğü kavramlarına giriş notları.
+
+---
+
 ## ✨ Son Söz
 
 High-Speed Digital Design ve Signal Integrity, ders dışı mühendisliğin en niş ve prestijli alanlarından biri.
