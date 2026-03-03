@@ -31,6 +31,46 @@ Bu depo, **Gömülü Sistemler, FPGA, ASIC Tasarımı, RF** ve **Yüksek Hızlı
 | **🔒 Donanım Güvenliği** | [Donanım_Güvenliği](Donanım_Güvenliği) - Hardware Trojan, Side-Channel Analysis vb. |
 | **🧮 Hesaplama & PLC** | [MATLAB](MATLAB), [plc](plc) - Bilimsel hesaplama ve otomasyon notları. |
 
+---
+
+## 🛠️ Teknolojiler ve Araçlar (Tech Stack & Tools)
+
+Bu laboratuvarda, farklı mühendislik disiplinlerine yönelik çeşitli diller ve araçlar kullanılmaktadır:
+
+*   **Donanım Tanımlama Dilleri (HDL):** VHDL, Verilog, SystemVerilog
+*   **Gömülü Sistemler:** C, C++, Linux Kernel API, Device Trees
+*   **Sinyal İşleme ve Veri Analizi:** MATLAB, Python (NumPy, SciPy)
+*   **Ağa ve İletişim:** RF / SDR araç zincirleri, Socket programlama
+*   **Sentez ve Simülasyon:** ModelSim, Xilinx Vivado, Intel Quartus, GHDL
+
+---
+
+## 📂 Klasör Yapısı (Directory Structure)
+
+Depo, modüler bir laboratuvar mantığıyla organize edilmiştir. Her klasör kendi dünyasını temsil eder:
+
+```text
+yan-defter/
+├── ASIC_Tasarımı/        # RTL, Sentez ve Fiziksel Tasarım notları
+├── VHDL/                 # VHDL ile dijital modül tasarımları ve testbenchler
+├── Embedded Linux.../    # Kernel modülleri ve aygıt sürücüleri (Device Drivers)
+├── MATLAB/               # DSP ve matematiksel algoritmalar
+├── High-Speed_Dig.../    # PCB ve Sinyal Bütünlüğü (SI/PI) notları
+├── RISC‑V_Core_Design/   # Açık kaynak mimari çalışmaları
+└── ...
+```
+
+---
+
+## 🗺️ Yol Haritası (Roadmap)
+Bu defter sürekli güncellenen canlı bir organizmadır. Gelecekte eklenmesi planlanan konular:
+- [ ] Gelişmiş Linux SPI/I2C Sensör Sürücüleri
+- [ ] RISC-V için basit bir 5-stage pipeline işlemci tasarımı
+- [ ] MATLAB ile Gelişmiş QAM/OFDM modülasyonu simülasyonları
+- [ ] Donanım Güvenliği: Side-channel attacks notları
+
+---
+
 ## 🚀 Başlarken (Getting Started)
 Her klasör kendi içinde bağımsız projeler veya notlar barındırır. İlgilendiğiniz başlığın içine girerek oradaki `README.md` dosyasını okuyabilirsiniz.
 
